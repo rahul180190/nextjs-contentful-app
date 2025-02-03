@@ -42,5 +42,6 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/pages/b
 ## Pre-requistes
 
 Add ".env.local" file in the main source folder with below content:
-**  CONTENTFUL_SPACE_ID=kqjzg3qhsxut
-  CONTENTFUL_ACCESS_TOKEN=QxEbLrgtSw-0UljC_0tQArUZiOyOaAzOajAW0ConXug**
+
+  CONTENTFUL_SPACE_ID=*******
+  CONTENTFUL_ACCESS_TOKEN=*****************
