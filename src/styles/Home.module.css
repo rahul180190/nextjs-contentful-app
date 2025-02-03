@@ -42,10 +42,13 @@
   line-height: 24px;
   letter-spacing: -0.01em;
   list-style-position: inside;
+  display: flex;
+  list-style: none;
 }
 
 .main li:not(:last-of-type) {
   margin-bottom: 8px;
+  margin-right: 25px;
 }
 
 .main code {
